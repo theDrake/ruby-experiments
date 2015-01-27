@@ -1,4 +1,4 @@
-games = {
+the_elder_scrolls = {
   tes_i:   "Arena",
   tes_ii:  "Daggerfall",
   tes_iii: "Morrowind",
@@ -6,5 +6,9 @@ games = {
   tes_v:   "Skyrim"
 }
 
-puts games
-puts games.sort
+puts the_elder_scrolls
+puts the_elder_scrolls.sort
+
+puts "Input: "
+input = gets.chomp
+puts input
