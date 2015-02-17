@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def alphabetize(arr, rev=false)
   if rev
     arr.sort!

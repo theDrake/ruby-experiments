@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 the_elder_scrolls = {
   tes_i:   "Arena",
   tes_ii:  "Daggerfall",

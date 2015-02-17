@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 
 movies = {
   "Nausicaa of the Valley of the Wind": 5,

@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 MAX_LINE_LENGTH = 80
 
 ARGV.each do |path|

@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 puts "Input: "
 text        = gets.chomp
 words       = text.split
