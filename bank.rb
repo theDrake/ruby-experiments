@@ -50,5 +50,6 @@ checking_account = Account.new("Steve Jones", 1000)
 checking_account.withdraw 12345, 200
 checking_account.withdraw 1234, 200
 checking_account.deposit 1234, 100
+checking_account.withdraw 123, 1000
 checking_account.withdraw 1234, 1000
-
+checking_account.withdraw 1234, 900
