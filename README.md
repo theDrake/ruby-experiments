@@ -1,2 +1,2 @@
 # ruby-experiments
-A repository for my experiments with the Ruby programming language.
+A repository for some of my experiments with the [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) programming language.
